@@ -19,6 +19,10 @@
     "patterns":["quanto dura um intercambio?", "periodo do intercambio", "duracao do intercambio"],
     "responses": ["O intercâmbio dura por 1 (um) semestre, e o intercâmbio semestral poderá ser renovado pelo mesmo período desde que a FEI e a instituição acolhedora concordem com a extensão do programa e a permanência do aluno."]
   },
+  { "tag": "data_limite",
+    "patterns":["Até quando posso entregar a documentação?", "Data limite", "Data limite para entregar documentos"],
+    "responses": ["1º semestre: 15 de setembro\n2º semestre: 1 de abril\nNão será aceita documentação incompleta ou fora do prazo."]
+  },
   { "tag": "selecao",
     "patterns":["como funciona o processo de selecao?", "processo de selecao", "processo de seleção"],
     "responses": ["O programa de intercâmbio funciona baseado no princípio da reciprocidade, e o número de vagas disponíveis na instituição anfitriã pode variar dependendo do número de alunos estrangeiros recebidos.\nAs instituições no exterior podem limitar a quantidade de vagas oferecidas.\nCaso existam mais candidatos que o número de vagas disponíveis, o Centro Universitário FEI selecionará o aluno que será nomeado à instituição estrangeira com base nos seguintes critérios:\n\n-Ciclo no qual o estudante está matriculado (serão considerados os alunos dos ciclos mais avançados);\n-Melhores médias obtidas ao longo dos ciclos anteriores (média aritmética);\n-Proficiência no idioma do curso de destino (em alguns casos este critério pode ser determinante);\n-Qualidade dos documentos apresentados;\n-Cumprimento de prazos e correto preenchimento dos formulários;\n-Parecer acadêmico do Coordenador de Curso.\n\nOs critérios acima não seguem uma ordem."]
