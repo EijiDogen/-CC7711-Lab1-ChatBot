@@ -4,22 +4,23 @@ myChatBot = ChatBot()
 myChatBot.loadModel()
 
 #criar o modelo
-myChatBot.createModel()
+#myChatBot.createModel()
 
+print("Bem-vindo ao Chatbot FEI Intercâmbio.")
 
-
-
-print("Bem vindo ao Chatbot")
-
-
-pergunta = input("como posso te ajudar?")
+pergunta = input("Como posso ajudar?\n")
 resposta, intencao = myChatBot.chatbot_response(pergunta)
-print(resposta + "   ["+intencao[0]['intent']+"]")
 
+#debugging print
+#print(resposta + "   ["+intencao[0]['intent']+"]")
+
+#normal print
+print(resposta+"\n")
 
 while (intencao[0]['intent']!="despedida"):
-    pergunta = input("posso lhe ajudar com algo a mais?")
+    pergunta = input("Possui outra dúvida?")
     resposta, intencao = myChatBot.chatbot_response(pergunta)
-    print(resposta + "   [" + intencao[0]['intent'] + "]")
+
+    print(resposta+"\n")
 
 print("Foi um prazer atendê-lo")
