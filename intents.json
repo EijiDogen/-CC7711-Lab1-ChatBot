@@ -32,7 +32,7 @@
   "responses": ["Durante o período de intercâmbio, o estudante continuará regularmente matriculado no Centro Universitário, com registro acadêmico 'em intercâmbio', e deverá continuar pagando as mesmas taxas de matrícula e mensalidades à FEI, sem qualquer acréscimo. Com exceção de possíveis taxas administrativas do país ou universidade anfitriã, o participante do programa estará isento de pagamentos à instituição estrangeira.\nOs custos de hospedagem, alimentação, seguro de saúde, passaporte, visto, passagem aérea e gastos pessoais são de responsabilidade do aluno."]
   },
   { "tag": "dupla_diplomacao",
-  "patterns":["quanto custa o intercâmbio?", "custos do intercambio", "custos", "qual o preço do intercambio", "preço do intercambio", "valor do intercambio", "valor a ser pago", "pagamento"],
+  "patterns":["diploma", "e possivel dupla diplomacao", "dois diplomas", "multiformacao"],
   "responses": ["Durante o período de intercâmbio, o estudante continuará regularmente matriculado no Centro Universitário, com registro acadêmico 'em intercâmbio', e deverá continuar pagando as mesmas taxas de matrícula e mensalidades à FEI, sem qualquer acréscimo. Com exceção de possíveis taxas administrativas do país ou universidade anfitriã, o participante do programa estará isento de pagamentos à instituição estrangeira.\nOs custos de hospedagem, alimentação, seguro de saúde, passaporte, visto, passagem aérea e gastos pessoais são de responsabilidade do aluno."]
   },
   { "tag": "idiomas",
