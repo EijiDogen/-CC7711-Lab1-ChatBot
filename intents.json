@@ -43,27 +43,27 @@
     "patterns":["Quais cursos de idioma a FEI recomenda?", "Cursos de idioma"],
     "responses": ["A FEI possúi parceiros para os seguintes idiomas: Alemão, Catalão, Mandarin, Francês, Espanhol, Inglês.\nEm qual idioma você têm interesse?"]
   },
-  { "tag": "idioma_alemao",
+  { "tag": ["idioma_alemao", "Cursos de ingles"],
     "patterns":["Cursos de alemao"],
     "responses": ["Confira https://www.stk.kit.edu/daf-stub.php"]
   },
-  { "tag": "idioma_catalao",
+  { "tag": ["idioma_catalao", "catalao"],
     "patterns":["Cursos de catalao"],
     "responses": ["Confira http://www.uab.cat/web/cursos-de-idiomas/lenguas-1215413661530.html?param1=1195026073065"]
   },
-  { "tag": "idioma_mandarin",
+  { "tag": ["idioma_mandarin", "mandarin"],
     "patterns":["Cursos de mandarim"],
     "responses": ["Confira http://www.clec.pu.edu.tw/tuition.aspx"]
   },
-  { "tag": "idioma_frances",
+  { "tag": ["idioma_frances", "frances"],
     "patterns":["Cursos de frances"],
     "responses": ["Confira https://www.aliancafrancesagabc.com.br/"]
   },
-  { "tag": "idioma_espanhol",
+  { "tag": ["idioma_espanhol", "espanhol"],
     "patterns":["Cursos de espanhol"],
     "responses": ["Confira http://www.uahurtado.cl/red-internacional-2/estudiantes-extranjeros/programa-intensivo-de-lenguaje-cultura-e-inmersion-social/"]
   },
-  { "tag": "idioma_ingles",
+  { "tag": ["idioma_ingles", "ingles"],
     "patterns":["Cursos de ingles"],
     "responses": ["Confira https://www.cpp.edu/~cpeli/study-english/english-language-program.shtml"]
   }
