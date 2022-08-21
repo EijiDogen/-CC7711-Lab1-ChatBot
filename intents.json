@@ -1,6 +1,6 @@
 {"intents":[
   { "tag": "saudacao",
-    "patterns":["Ola","Opa","Oi", "tudo bem"],
+    "patterns":["Ola","Opa","Oi", "tudo bem", "como vai"],
     "responses": ["Oi, como posso ajudar?"]
   },
   { "tag": "despedida",
@@ -12,7 +12,7 @@
     "responses": ["O candidato a ser selecionado e indicado pelo Centro Universitário FEI à instituição anfitriã deverá preencher, obrigatoriamente, os seguintes requisitos:\n-Estar regularmente matriculado no Centro Universitário FEI;\n-Estar em dia com as obrigações assumidas no Contrato de Prestação de Serviços Educacionais assinado com a FEI;\n-Ter integralizado no mínimo 30% do currículo previsto para seu curso, no momento do início previsto da viagem de estudos;\n-Ter média aritmética de todas as disciplinas cursadas igual ou maior a 6,0 (seis);\n-Manifestar compromisso de retornar ao Brasil após o período de estudos no exterior para conclusão dos estudos de graduação no Centro Universitário FEI;\n-Possuir proficiência no idioma do curso de destino (Obs.: Instituições de ensino superior podem exigir pontuação mínima em exame de proficiência na língua estrangeira."]
   },
   { "tag": "candidatura",
-    "patterns":["Como me candidatar ao intercambio?", "Como realizar intercambio?", "Como o intercambio funciona?", "Como fazer intercambio?", "Quais documentos eu preciso?", "Documentacao necessaria", "Quais documentos"],
+    "patterns":["Como me candidatar ao intercambio?", "Como realizar intercambio?", "Como o intercambio funciona?", "Como fazer intercambio?", "Quais documentos eu preciso?", "Documentacao necessaria", "Quais documentos", "quero fazer intercambio", "poder onde comeco"],
     "responses": ["Antes de iniciar a candidatura, o interessado deverá certificar-se que a instituição de destino oferece cursos na sua área de estudos e confirmar a disponibilidade de vagas.\nUma vez selecionada a instituição para a qual irá se postular, o estudante deverá apresentar todos documentos de candidatura listados abaixo à Coordenadoria de Relações Internacionais do Centro Universitário FEI, localizada no Prédio D - térreo - sala 07:\n-Formulário de Inscrição FEI;\n-Ficha de Inscrição da Instituição de destino;\n-Cópia da página de identificação do passaporte, com validade para todo o período de estudos no exterior;\n-Histórico escolar (em português ou inglês, dependendo do destino);\n-Carta de Apresentação/Motivação (no idioma da universidade anfitriã);\n-Currículo (no idioma da universidade anfitriã).\n-2 fotos 3x4;\n-Caso necessário, o candidato deverá se responsabilizar por eventual tradução de documentos.\n\nAs instituições de destino podem solicitar documentos adicionais, não listados acima."]
   },
   { "tag": "duracao",
