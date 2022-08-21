@@ -8,7 +8,7 @@
     "responses": ["Até mais!"]
   },
   { "tag": "pre_requisitos",
-    "patterns":["Quais são os pre requisitos do intercambio?", "Prerequisitos", "Pre requisitos"],
+    "patterns":["Quais sao os pre requisitos do intercambio?", "Prerequisitos", "Pre requisitos"],
     "responses": ["O candidato a ser selecionado e indicado pelo Centro Universitário FEI à instituição anfitriã deverá preencher, obrigatoriamente, os seguintes requisitos:\n-Estar regularmente matriculado no Centro Universitário FEI;\n-Estar em dia com as obrigações assumidas no Contrato de Prestação de Serviços Educacionais assinado com a FEI;\n-Ter integralizado no mínimo 30% do currículo previsto para seu curso, no momento do início previsto da viagem de estudos;\n-Ter média aritmética de todas as disciplinas cursadas igual ou maior a 6,0 (seis);\n-Manifestar compromisso de retornar ao Brasil após o período de estudos no exterior para conclusão dos estudos de graduação no Centro Universitário FEI;\n-Possuir proficiência no idioma do curso de destino (Obs.: Instituições de ensino superior podem exigir pontuação mínima em exame de proficiência na língua estrangeira."]
   },
   { "tag": "candidatura",
@@ -20,7 +20,7 @@
     "responses": ["O intercâmbio dura por 1 (um) semestre, e o intercâmbio semestral poderá ser renovado pelo mesmo período desde que a FEI e a instituição acolhedora concordem com a extensão do programa e a permanência do aluno."]
   },
   { "tag": "data_limite",
-    "patterns":["Até quando posso entregar a documentacao?", "Data limite", "Data limite para entregar documentos"],
+    "patterns":["Ate quando posso entregar a documentacao?", "Data limite", "Data limite para entregar documentos"],
     "responses": ["1º semestre: 15 de setembro\n2º semestre: 1 de abril\nNão será aceita documentação incompleta ou fora do prazo."]
   },
   { "tag": "selecao",
@@ -40,7 +40,7 @@
   "responses": ["A FEI oferece através de parceiros vários programas de bolsas para alunos. Abaixo está uma lista:\n-Santander Superamos Juntos\n-TOP España\n-Bolsas Ibero-Americanas\n-Fórmula Santander\n-Santander Mundi\nCAPES / BRAFITEC"]
   },
   { "tag": "contato",
-  "patterns":["como entrar em contato", "qual é o contato", "informações de contato", "contato"],
+  "patterns":["como entrar em contato", "qual é o contato", "informacoes de contato", "contato"],
   "responses": ["Entre com o contato com a Coordenadoria das Relações Internacionais através de:\n-Email: internacional@fei.edu.br\n-Telefone: +55 11 4353- 2900 Ramal: 2234\n-Local: Campus São Bernardo do Campo - Prédio D - Térreo - Sala 07"]
   },
   { "tag": "idiomas",
@@ -51,28 +51,28 @@
     "patterns":["Quais cursos de idioma a FEI recomenda?", "Cursos de idioma"],
     "responses": ["A FEI possúi parceiros para os seguintes idiomas: Alemão, Catalão, Mandarin, Francês, Espanhol, Inglês.\nEm qual idioma você têm interesse?"]
   },
-  { "tag": ["idioma_alemao", "alemao"],
-    "patterns":["Cursos de alemao"],
+  { "tag": "idioma_alemao",
+    "patterns":["Cursos de alemao", "alemao"],
     "responses": ["Confira https://www.stk.kit.edu/daf-stub.php"]
   },
-  { "tag": ["idioma_catalao", "catalao"],
-    "patterns":["Cursos de catalao"],
+  { "tag": "idioma_catalao",
+    "patterns":["Cursos de catalao", "catalao"],
     "responses": ["Confira http://www.uab.cat/web/cursos-de-idiomas/lenguas-1215413661530.html?param1=1195026073065"]
   },
-  { "tag": ["idioma_mandarin", "mandarin"],
-    "patterns":["Cursos de mandarim"],
+  { "tag": "idioma_mandarin",
+    "patterns":["Cursos de mandarim", "mandarim"],
     "responses": ["Confira http://www.clec.pu.edu.tw/tuition.aspx"]
   },
-  { "tag": ["idioma_frances", "frances"],
-    "patterns":["Cursos de frances"],
+  { "tag": "idioma_frances",
+    "patterns":["Cursos de frances", "frances"],
     "responses": ["Confira https://www.aliancafrancesagabc.com.br/"]
   },
-  { "tag": ["idioma_espanhol", "espanhol"],
-    "patterns":["Cursos de espanhol"],
+  { "tag": "idioma_espanhol",
+    "patterns":["Cursos de espanhol", "espanhol"],
     "responses": ["Confira http://www.uahurtado.cl/red-internacional-2/estudiantes-extranjeros/programa-intensivo-de-lenguaje-cultura-e-inmersion-social/"]
   },
-  { "tag": ["idioma_ingles", "ingles"],
-    "patterns":["Cursos de ingles"],
+  { "tag": "idioma_ingles",
+    "patterns":["Cursos de ingles", "ingles"],
     "responses": ["Confira https://www.cpp.edu/~cpeli/study-english/english-language-program.shtml"]
   }
 ]
