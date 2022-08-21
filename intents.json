@@ -32,8 +32,16 @@
   "responses": ["Durante o período de intercâmbio, o estudante continuará regularmente matriculado no Centro Universitário, com registro acadêmico 'em intercâmbio', e deverá continuar pagando as mesmas taxas de matrícula e mensalidades à FEI, sem qualquer acréscimo. Com exceção de possíveis taxas administrativas do país ou universidade anfitriã, o participante do programa estará isento de pagamentos à instituição estrangeira.\nOs custos de hospedagem, alimentação, seguro de saúde, passaporte, visto, passagem aérea e gastos pessoais são de responsabilidade do aluno."]
   },
   { "tag": "dupla_diplomacao",
-  "patterns":["diploma", "e possivel dupla diplomacao", "dois diplomas", "multiformacao"],
-  "responses": ["Durante o período de intercâmbio, o estudante continuará regularmente matriculado no Centro Universitário, com registro acadêmico 'em intercâmbio', e deverá continuar pagando as mesmas taxas de matrícula e mensalidades à FEI, sem qualquer acréscimo. Com exceção de possíveis taxas administrativas do país ou universidade anfitriã, o participante do programa estará isento de pagamentos à instituição estrangeira.\nOs custos de hospedagem, alimentação, seguro de saúde, passaporte, visto, passagem aérea e gastos pessoais são de responsabilidade do aluno."]
+  "patterns":["dupla diplomação", "é possível dupla diplomação?"],
+  "responses": ["O Centro Universitário FEI mantém acordos internacionais para programas de dupla-diplomação, possibilitando que os participantes obtenham dois diplomas ao término do curso de graduação."]
+  },
+  { "tag": "bolsa_de_estudos",
+  "patterns":["bolsas de estudo que a FEI oferece","bolsa de estudos", "bolsa", "apoio financeiro", "desconto"],
+  "responses": ["A FEI oferece através de parceiros vários programas de bolsas para alunos. Abaixo está uma lista:\n-Santander Superamos Juntos\n-TOP España\n-Bolsas Ibero-Americanas\n-Fórmula Santander\n-Santander Mundi\nCAPES / BRAFITEC"]
+  },
+  { "tag": "contato",
+  "patterns":["como entrar em contato", "qual é o contato", "informações de contato", "contato"],
+  "responses": ["Entre com o contato com a Coordenadoria das Relações Internacionais através de:\n-Email: internacional@fei.edu.br\n-Telefone: +55 11 4353- 2900 Ramal: 2234\n-Local: Campus São Bernardo do Campo - Prédio D - Térreo - Sala 07"]
   },
   { "tag": "idiomas",
     "patterns":["Quais os idiomas do intercambio?","Quais idiomas?", "idiomas", "idioma"],
